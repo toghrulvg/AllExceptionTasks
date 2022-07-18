@@ -1,0 +1,14 @@
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\bin\Debug\netcoreapp3.1\ExceptionLoginExample.exe
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\bin\Debug\netcoreapp3.1\ExceptionLoginExample.deps.json
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\bin\Debug\netcoreapp3.1\ExceptionLoginExample.runtimeconfig.json
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\bin\Debug\netcoreapp3.1\ExceptionLoginExample.runtimeconfig.dev.json
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\bin\Debug\netcoreapp3.1\ExceptionLoginExample.dll
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\bin\Debug\netcoreapp3.1\ExceptionLoginExample.pdb
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\obj\Debug\netcoreapp3.1\ExceptionLoginExample.csproj.AssemblyReference.cache
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\obj\Debug\netcoreapp3.1\ExceptionLoginExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\obj\Debug\netcoreapp3.1\ExceptionLoginExample.AssemblyInfoInputs.cache
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\obj\Debug\netcoreapp3.1\ExceptionLoginExample.AssemblyInfo.cs
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\obj\Debug\netcoreapp3.1\ExceptionLoginExample.csproj.CoreCompileInputs.cache
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\obj\Debug\netcoreapp3.1\ExceptionLoginExample.dll
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\obj\Debug\netcoreapp3.1\ExceptionLoginExample.pdb
+C:\Users\Resad\source\repos\ExceptionLoginExample\ExceptionLoginExample\obj\Debug\netcoreapp3.1\ExceptionLoginExample.genruntimeconfig.cache
